@@ -1,0 +1,8 @@
+## YAML Template.
+---
+logging:
+  level:
+    org:
+      springframework:
+        web: INFO
+  file: /data/naruto/log/MyInterview.log

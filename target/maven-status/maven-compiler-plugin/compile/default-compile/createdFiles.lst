@@ -1,0 +1,12 @@
+com/econetmedia/developer/interview/exception/ValidationException.class
+com/econetmedia/developer/interview/rest/RestConsumer.class
+com/econetmedia/developer/interview/controler/RestResource.class
+com/econetmedia/developer/interview/rest/SampleRestObject.class
+com/econetmedia/developer/interview/service/CustomerService.class
+com/econetmedia/developer/interview/ApplicationInitializer.class
+com/econetmedia/developer/interview/rest/RestConsumerImpl.class
+com/econetmedia/developer/interview/rest/RestConsumerImpl$1.class
+com/econetmedia/developer/interview/model/Response.class
+com/econetmedia/developer/interview/service/CustomerServiceImpl.class
+com/econetmedia/developer/interview/model/Customer.class
+com/econetmedia/developer/interview/model/Address.class

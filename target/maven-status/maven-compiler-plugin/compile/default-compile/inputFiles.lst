@@ -1,0 +1,11 @@
+/home/tsamuriwo/Documents/projects/developer-task-03/src/main/java/com/econetmedia/developer/interview/controler/RestResource.java
+/home/tsamuriwo/Documents/projects/developer-task-03/src/main/java/com/econetmedia/developer/interview/model/Address.java
+/home/tsamuriwo/Documents/projects/developer-task-03/src/main/java/com/econetmedia/developer/interview/ApplicationInitializer.java
+/home/tsamuriwo/Documents/projects/developer-task-03/src/main/java/com/econetmedia/developer/interview/rest/RestConsumer.java
+/home/tsamuriwo/Documents/projects/developer-task-03/src/main/java/com/econetmedia/developer/interview/model/Response.java
+/home/tsamuriwo/Documents/projects/developer-task-03/src/main/java/com/econetmedia/developer/interview/service/CustomerService.java
+/home/tsamuriwo/Documents/projects/developer-task-03/src/main/java/com/econetmedia/developer/interview/model/Customer.java
+/home/tsamuriwo/Documents/projects/developer-task-03/src/main/java/com/econetmedia/developer/interview/service/CustomerServiceImpl.java
+/home/tsamuriwo/Documents/projects/developer-task-03/src/main/java/com/econetmedia/developer/interview/rest/RestConsumerImpl.java
+/home/tsamuriwo/Documents/projects/developer-task-03/src/main/java/com/econetmedia/developer/interview/exception/ValidationException.java
+/home/tsamuriwo/Documents/projects/developer-task-03/src/main/java/com/econetmedia/developer/interview/rest/SampleRestObject.java
